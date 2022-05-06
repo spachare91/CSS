@@ -1,2 +1,5 @@
 mail : spachare91@gmail.com
 pass: eMi]]'P4L2i-9}$oM34j/Wb4J749inkD
+site: https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls
+
+come to site..intercept on...click on add product..ahnge value
